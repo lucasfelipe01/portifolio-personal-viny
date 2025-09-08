@@ -241,3 +241,15 @@ if (mobileMenu && navLinks) {
     if (e.key === "Escape" && navLinks.classList.contains("active")) closeMenu();
   });
 }
+
+// Autoplay for mobile devices
+document.addEventListener("DOMContentLoaded", () => {
+  const videos = document.querySelectorAll("video");
+  videos.forEach((video) => {
+    video.muted = true;          // garante que esteja mutado
+    video.play().catch((err) => {
+      // captura erro caso autoplay seja bloqueado
+      console.log("Autoplay bloqueado:", err);
+    });
+  });
+});
