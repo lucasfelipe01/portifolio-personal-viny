@@ -29,7 +29,8 @@ O site é **responsivo**, moderno e otimizado para conversão, funcionando tanto
 ---
 
 ## 📷 Demonstração
-🔗 <img width="1916" height="1055" alt="image" src="https://github.com/user-attachments/assets/87f170dc-d025-4f3c-a202-a787ad1bceef" />
+🔗 <img width="1916" height="1055" alt="image" src="https://github.com/user-attachments/assets/d7e45003-96ff-4d24-99ed-6faf50281afe" />
+
 
 👉 *(https://lucasfelipe01.github.io/portifolio-personal-viny/)*  
 
