@@ -38,4 +38,4 @@ O site é **responsivo**, moderno e otimizado para conversão, funcionando tanto
 ## 🛠️ Como rodar o projeto localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/portifolio-personal-viny.git
+   git clone https://github.com/lucasfelipe01/portifolio-personal-viny.git
